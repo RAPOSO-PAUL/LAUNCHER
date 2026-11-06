@@ -1,0 +1,58 @@
+{
+  "principais": [
+    {
+      "nome": "CINE GO!",
+      "pacote": "com.tveminem.tv",
+      "logo": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/logos/cinego.png",
+      "apk": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/download/v1/cinego.apk",
+      "versao": 12
+    },
+    {
+      "nome": "YouTube",
+      "pacote": "com.google.android.youtube.tv",
+      "logo": "",
+      "apk": "https://SEU_LINK/youtube-tv.apk",
+      "versao": 0
+    },
+    {
+      "nome": "Netflix",
+      "pacote": "com.netflix.ninja",
+      "logo": "",
+      "apk": "https://SEU_LINK/netflix-tv.apk",
+      "versao": 0
+    },
+    {
+      "nome": "Kodi",
+      "pacote": "org.xbmc.kodi",
+      "logo": "",
+      "apk": "https://SEU_LINK/kodi.apk",
+      "versao": 0
+    }
+  ],
+
+  "atalhos": [
+    {
+      "nome": "Spotify",
+      "pacote": "com.spotify.tv.android",
+      "logo": "",
+      "apk": "https://SEU_LINK/spotify-tv.apk",
+      "versao": 0
+    },
+    {
+      "nome": "Navegador",
+      "pacote": "com.android.chrome",
+      "logo": "",
+      "apk": "https://SEU_LINK/navegador.apk",
+      "versao": 0
+    }
+  ],
+
+  "fundos": [
+    {
+      "id": "noite-estrelada",
+      "nome": "Noite estrelada",
+      "miniatura": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/fundos/noite-mini.jpg",
+      "imagem": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/fundos/noite.jpg"
+    }
+  ]
+}
